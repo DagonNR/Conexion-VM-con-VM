@@ -1,5 +1,6 @@
 # Conexión entre Virtual Machines por Virtual Network
 Este es un recopilatorio sobre como conectar dos Virtual Machines en Azure.
+
 ![Microsoft-Azure-Virtual-Machine](https://github.com/DagonNR/Conexion-VM-con-VM/blob/main/images/Microsoft-Azure-Virtual-Machine.png)
 ![Microsoft-Azure-Virtual-Network](https://github.com/DagonNR/Conexion-VM-con-VM/blob/main/images/Microsoft-Azure-Virtual-Network.png)
 ![Microsoft-Azure-Virtual-Machine](https://github.com/DagonNR/Conexion-VM-con-VM/blob/main/images/Microsoft-Azure-Virtual-Machine.png)
